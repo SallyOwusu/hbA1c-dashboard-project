@@ -27,5 +27,5 @@ This project is an interactive Excel dashboard analysing HbA1c trends across pat
 
 ## Dashboard Preview
 
-![HbA1c Dashboard](dashboard.png)
+![HbA1c Dashboard](HbA1c Trends Charts.png)
 
